@@ -19,6 +19,7 @@ There is also dishes count on the top left of the screen, it keeps tracking the 
 WASD - move
 Left Shift - sprint
 Space - jump
+You can make a double jump
 
 ---------------------
 
